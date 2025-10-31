@@ -1,0 +1,114 @@
+[[SoapyLiteXM2SDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a46b00eb2a7ddfeb219ba4ee9f67c5363ee1b9f"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "e1df16f1744fb1a5829b81a8e43e910775c0446adfaacdb77ef5c6d6fbdb5b66"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9de64f0103366a419075752cf68efbf3d4d9d8b"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "d0c2c16ed35d95bd18f2cd1159963b2f9f8ddc166c9c745b0cee0e4823c1a368"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c73c82ec423aa8769dac0e50b9f5f9434ef106d7"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "a27118b77f57bc6ddeb084c510fc8ac5d0125deb949fb5bc56504984b53862d8"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5206c982192c18e922e875a4aac587997cdc054"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "ca571e75b5f850657fbca6622424ca61d2c882d1571a5b1a534fc30e802e5118"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34882bfd23265f1fbbda6b741c99f2ab58f35fed"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "f64b25fb0568d6b55d3a2a646a08b8c6d5b16148717176b2ee2bd4923acf9aa2"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f89fdecdff393edac42d74fcf6f748a3bd340de9"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "112c73b26f3812aa7eacdbd3e4a9e5f811623510021b4ee8aa1b3cfc37d6f422"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de54177b6c01c7ebc968845f177a356e4da37975"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "f5d882f6b0a75e2bccc9102da2e87e62aefeca06ada49c61b8d9984a4895bfc3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df2423eee8ece53568c84606465e265d25802457"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "4f8090c77ab4887f6df6de11b6571795a7dc24fbe41fca42fead9af144aae9fb"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57a03d951fe67e1c0f13f27850ec1b401dc498b4"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "470cc686254f8310b1b8e17399f91a5f6c88453d720ffc99513dc8da0907b35d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3680d898f877f1db8670b3e4c8a9b8e270bc5952"
+libc = "glibc"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "2dacf7fc5a0f55497721f6f2c5fd9bf70ca7ca5896441f131d372bff4c6ba674"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SoapyLiteXM2SDR]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "773ed9f5ac9a9cb499a866ca62c0fb3a3ffc7ee3"
+libc = "musl"
+os = "linux"
+
+    [[SoapyLiteXM2SDR.download]]
+    sha256 = "a169ecfba652aa7633d8f0eac714f965c625bc3729702be3554e37a825124b68"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl/releases/download/SoapyLiteXM2SDR-v0.1.0+0/SoapyLiteXM2SDR.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
